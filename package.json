@@ -1,6 +1,6 @@
 {
   "name": "yeoman",
-  "version": "2.1.9",
+  "version": "2.1.10",
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
@@ -32,7 +32,7 @@
     "grunt-karma": "^0.8.2",
     "karma": "^0.12.1",
     "karma-ng-html2js-preprocessor": "^0.1.0",
-    "grunt-release": "^0.7.0"
+    "grunt-release": "git+https://github.com/brunoqueiroz/grunt-release.git"
   },
   "engines": {
     "node": ">=0.8.0"
