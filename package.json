@@ -1,6 +1,6 @@
 {
   "name": "yeoman",
-  "version": "2.1.10-RC4",
+  "version": "2.1.10-RC5",
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
